@@ -1,74 +1,67 @@
-# Hi there 👋, I'm Muhammad Haroon
+<h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+FAST+NUCES;Full+Stack+Developer;Building+Modern+School+Management+Systems;JavaScript+%7C+TypeScript+%7C+Next.js+%7C+NestJS;Always+Learning+and+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+FAST+NUCES;Full+Stack+Developer;Building+Modern+School+Management+Systems;Next.js+%7C+NestJS+%7C+PostgreSQL;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🙋 About Me
 
-🎓 Computer Science Undergraduate at **FAST NUCES Karachi**
+🎓 **BS Computer Science Student** at **FAST NUCES Karachi**
 
-🥇 Karachi Board **1st Position Holder** (Intermediate Computer Science)
+🥇 **Karachi Board Intermediate Computer Science – 1st Position Holder**
 
 💻 Passionate about **Full Stack Development**, **Software Engineering**, **Database Design**, and **System Architecture**
 
-📱 Interested in building scalable SaaS products that solve real-world problems
+🌱 Currently learning and exploring:
 
-📊 Currently exploring:
-- High-performance backend architectures
-- Cloud deployment
-- PostgreSQL optimization
-- AI-powered software
-- Data Analytics
+- Advanced Backend Development
+- Cloud Infrastructure
+- SaaS Architecture
+- AI Integration
+- PostgreSQL Optimization
 
-📚 Strong interest in Mathematics, Algorithms & Problem Solving
+🎯 Interested in building scalable software that solves real-world problems.
 
-🎵 Fun Fact: I enjoy singing Hindi songs in my free time.
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Developing **NEXUS eSchool**
-- 🌐 Building scalable SaaS applications
-- ⚡ Learning advanced backend engineering
-- ☁️ Exploring cloud infrastructure & DevOps
-- 📈 Improving software architecture & performance
+⚡ Fun Fact: I enjoy mathematics, solving programming problems, and singing Hindi songs.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,html,css"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase"/>
 </p>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel,digitalocean" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel,digitalocean"/>
 </p>
 
 ---
@@ -77,26 +70,25 @@
 
 ## 🏫 NEXUS eSchool
 
-A modern School ERP & Learning Management System designed to digitize educational institutions.
+A modern cloud-based **School ERP & Learning Management System** built to simplify school administration and provide a complete digital ecosystem for educational institutions.
 
-### Features
+### ✨ Features
 
 - 👨‍💼 Admin Portal
 - 👨‍🏫 Staff Portal
 - 👨‍👩‍👧 Parent Portal
 - 💳 Fee Management
-- 📚 Student Registration
-- 📊 Reports & Analytics
+- 📝 Student Registration
 - 📅 Timetable Management
-- 🎓 Examination System
-- 📱 Mobile Integration
-- 📈 Revenue Collection
+- 📊 Reports & Analytics
+- 🎓 Examination Management
+- 📱 Mobile Application
 - 🔐 Role-Based Access Control
-- ☁️ Cloud-Based Architecture
+- ☁️ Cloud Deployment
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 🥇 Karachi Board Intermediate Computer Science — **1st Position**
 
@@ -104,73 +96,44 @@ A modern School ERP & Learning Management System designed to digitize educationa
 
 🎓 Merit Scholarship Recipient
 
-🚀 Building a complete SaaS-based School Management Platform
+💻 Building a Modern SaaS Platform for Educational Institutions
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mharoon-dev729&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon-dev729&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mharoon-dev729&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mharoon-dev729&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mharoon-dev729&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 
 <a href="https://github.com/mharoon-dev729">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
+<!-- Replace with your LinkedIn when available -->
 <a href="https://www.linkedin.com/in/muhammad-haroon-96b972268/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
+<!-- Replace with your email -->
 <a href="mailto:muhammad.haroon.aslam729@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
+# 🐍 Contribution Snake
 
-> *"Great software isn't built by adding more features—it's built by solving the right problems elegantly."*
+<p align="center">
+<img src="https://raw.githubusercontent.com/mharoon-dev729/mharoon-dev729/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mharoon-dev729&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
