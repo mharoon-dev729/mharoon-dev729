@@ -5,7 +5,7 @@ Computer Science Student • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+FAST+NUCES;Full+Stack+Developer;Building+Modern+School+Management+Systems;Next.js+%7C+NestJS+%7C+PostgreSQL;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -111,6 +111,7 @@ A modern cloud-based **School ERP & Learning Management System** built to simpli
 &nbsp;&nbsp;&nbsp;
 
 <!-- Replace with your LinkedIn when available -->
+<p align="center">
 <a href="https://www.linkedin.com/in/muhammad-haroon-96b972268/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -118,6 +119,7 @@ A modern cloud-based **School ERP & Learning Management System** built to simpli
 &nbsp;&nbsp;&nbsp;
 
 <!-- Replace with your email -->
+<p align="center">
 <a href="mailto:muhammad.haroon.aslam729@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
