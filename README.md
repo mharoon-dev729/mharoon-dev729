@@ -111,11 +111,8 @@ A modern School ERP & Learning Management System designed to digitize educationa
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mharoon-dev729&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon-dev729&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mharoon-dev729&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharoon-dev729&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -123,7 +120,7 @@ A modern School ERP & Learning Management System designed to digitize educationa
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mharoon-dev729&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mharoon-dev729&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -131,7 +128,7 @@ A modern School ERP & Learning Management System designed to digitize educationa
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mharoon-dev729&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mharoon-dev729&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -139,7 +136,7 @@ A modern School ERP & Learning Management System designed to digitize educationa
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mharoon-dev729&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mharoon-dev729&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
