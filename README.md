@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haroon</h1>
 
-<h3 align="center">
-Computer Science Student • Full Stack Developer
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
