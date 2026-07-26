@@ -45,7 +45,7 @@
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs"/>
 </p>
 
 ### Database
@@ -57,7 +57,7 @@
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel,digitalocean"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,git,docker,vercel,digitalocean"/>
 </p>
 
 ---
