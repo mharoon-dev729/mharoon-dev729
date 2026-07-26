@@ -57,7 +57,7 @@
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,git,docker,vercel,digitalocean"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,digitalocean"/>
 </p>
 
 ---
