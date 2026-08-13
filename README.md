@@ -64,7 +64,7 @@
 
 # 🚀 Featured Project
 
-## 🏫 NEXUS eSchool
+## 🏫 Nexoriam Digital School
 
 A modern cloud-based **School ERP & Learning Management System** built to simplify school administration and provide a complete digital ecosystem for educational institutions.
 
